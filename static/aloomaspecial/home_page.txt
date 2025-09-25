@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What is required to set up a luxury restroom trailer on my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our luxury restroom trailers require a relatively flat, stable surface for placement. They also need access to a dedicated power source (typically two to three standard 110v outlets on separate circuits) and a standard garden hose hookup for the fresh water supply. We provide all necessary details during the booking process.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2. How do you ensure the porta potties don't have strong odors, especially in the summer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use a powerful, non-formaldehyde-based deodorizing agent in the holding tank that neutralizes odors and breaks down waste. All our units are also designed with ventilation systems to promote air circulation. Regular servicing on the agreed-upon schedule is the most critical component in keeping them fresh.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3. What happens if a portable toilet is tipped over or vandalized?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Please contact us immediately. Our team will respond as quickly as possible to assess the situation. Our rental agreement outlines the terms of responsibility, and we offer an optional damage waiver to provide peace of mind against unforeseen incidents.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4. Can I rent a single portable restroom for a weekend party at my home?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Of course! We cater to events of all sizes. A one day porta potty rental for a weekend is one of our most common requests for backyard parties, family reunions, and other private gatherings. We make the process simple with straightforward porta potty rental prices.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5. What should I do if my event has more attendees than I originally planned for?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you realize your guest count is increasing significantly, please contact us as soon as possible. Depending on the situation and availability, we may be able to add another unit to your order or schedule an additional mid-event service call to ensure your facilities remain clean and functional for the larger crowd.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
